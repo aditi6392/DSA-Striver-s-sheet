@@ -30,7 +30,7 @@ public class Question11 {
     }
 
     public static void main(String[] args) {
-        int arr[]={1,0,1,1,1};
-        System.out.println(func(arr,0));
+        int arr[]={2,5,6,0,1,2};
+        System.out.println(func(arr,1));
     }
 }
